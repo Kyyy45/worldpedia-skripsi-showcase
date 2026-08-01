@@ -71,4 +71,4 @@ Penjelasan arsitektur, alur data, dan pembahasan mendalam atas setiap cuplikan k
 
 ## Lisensi
 
-Kode ini dipublikasikan sebagai bukti pendukung akademik (lampiran skripsi) dan bukan untuk penggunaan komersial atau produksi ulang tanpa izin.
+Repositori ini dilisensikan di bawah [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/) — lihat file [LICENSE](LICENSE). Boleh dilihat dan dibagikan dengan mencantumkan atribusi, tapi tidak untuk penggunaan komersial atau modifikasi/distribusi ulang tanpa izin. Kode ini dipublikasikan sebagai bukti pendukung akademik (lampiran skripsi).

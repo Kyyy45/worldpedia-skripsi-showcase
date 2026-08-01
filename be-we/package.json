@@ -1,0 +1,32 @@
+{
+  "name": "worldpedia-skripsi-showcase-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend demo — fitur bantuan dinamis (RAG chatbot) dan dashboard analitik, lampiran skripsi Rizky Akbar (222102484)",
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "seed": "tsx src/scripts/seed.ts",
+    "mint-token": "tsx src/scripts/mint-admin-token.ts"
+  },
+  "dependencies": {
+    "@google/genai": "^2.6.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.5.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongodb": "7.5.0",
+    "mongoose": "^9.6.2",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.0",
+    "@types/jsonwebtoken": "^9.0.10",
+    "@types/node": "^22.5.5",
+    "tsx": "^4.19.1",
+    "typescript": "^6.0.3"
+  }
+}
